@@ -1,0 +1,10 @@
+report/*
+node_modules/*
+allure-report/*
+junit/*
+report.*
+.idea/*
+allure-results/*
+fail-screenshot/*
+
+package-lock.json
